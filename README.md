@@ -22,6 +22,9 @@ npm install --global expo-cli
 ## Screenshots
 
 ![Test Image 1](https://github.com/mohamedasoliman/ReactNative-TestApp/blob/master/screenShots/homeScreen.png)
+
 ![Test Image 2](https://github.com/mohamedasoliman/ReactNative-TestApp/blob/master/screenShots/userAlbumsScreen.png)
+
 ![Test Image 3](https://github.com/mohamedasoliman/ReactNative-TestApp/blob/master/screenShots/thumbnails.png)
+
 ![Test Image 4](https://github.com/mohamedasoliman/ReactNative-TestApp/blob/master/screenShots/thumbnailBigSize.png)
