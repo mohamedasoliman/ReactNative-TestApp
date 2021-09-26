@@ -17,6 +17,7 @@ npm install --global expo-cli
 - After clicking on any user, the albums of the user (obtained using the User id) will be shown in the User's albums screen.
 - When an album is chosen, photos related to the album will be returned as thumbnails (obtained by album id) and will be shown to the user.
 - If any of the small thumbnails were clicked by the user, the thumbnail will then be shown (using a Modal) to the user. 
+- The application has been tried one 2 different devices and simulators with different screen sizes to ensure good quality.
 
 
 ## Screenshots
