@@ -14,7 +14,7 @@ export default function UserAlbums({ navigation, route }) {
     const [albums, setAlbums] = useState([]);
     const [picUrl, setPicUrl] = useState('');
     const [error, setError] = useState('');
-    const [modelVisible, setModalVisible] = useState(false);
+    const [modalVisible, setModalVisible] = useState(false);
 
     // life cycle
     useEffect(() => {
@@ -103,7 +103,7 @@ export default function UserAlbums({ navigation, route }) {
 
             <Modal
                 transparent={true}
-                visible={modelVisible}
+                visible={modalVisible}
                 onRequestClose={() => {
                     setModalVisible(false)
                 }}>
