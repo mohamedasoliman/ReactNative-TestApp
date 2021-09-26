@@ -60,7 +60,7 @@ export default function UserAlbums({ navigation, route }) {
                     <Image
                         style={styles.image}
                         source={{
-                            uri: item.url,
+                            uri: item.thumbnailUrl,
                         }}
                     />
                     <Text
